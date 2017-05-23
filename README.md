@@ -9,3 +9,5 @@ Install Guide:
 -run the script using ./install.sh in the terminal
 -make sure the script is given permission to execute
 -script should take care of the install process for you
+
+NOTE: script currently only works for 64 bit systems
